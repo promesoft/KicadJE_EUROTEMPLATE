@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "KicadJE_Temp-rescue")(type "KiCad")(uri "${KIPRJMOD}/KicadJE_Temp-rescue.kicad_sym")(options "")(descr ""))
+)
